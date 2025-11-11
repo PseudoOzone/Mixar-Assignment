@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pillow
+trimesh
+open3d
+pyglet<2
+PyOpenGL
+PyOpenGL_accelerate
